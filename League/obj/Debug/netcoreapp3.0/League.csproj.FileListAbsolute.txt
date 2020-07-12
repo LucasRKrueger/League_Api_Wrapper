@@ -1,0 +1,13 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\bin\Debug\netcoreapp3.0\League.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\obj\Debug\netcoreapp3.0\League.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\obj\Debug\netcoreapp3.0\League.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\obj\Debug\netcoreapp3.0\League.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\bin\Debug\netcoreapp3.0\League.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\bin\Debug\netcoreapp3.0\League.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\bin\Debug\netcoreapp3.0\League.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\bin\Debug\netcoreapp3.0\League.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\bin\Debug\netcoreapp3.0\League.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\obj\Debug\netcoreapp3.0\League.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\obj\Debug\netcoreapp3.0\League.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\RiotBot\LeagueAPI\League\League\obj\Debug\netcoreapp3.0\League.pdb
