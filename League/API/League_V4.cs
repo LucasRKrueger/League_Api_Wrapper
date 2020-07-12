@@ -6,20 +6,20 @@ using System.Text;
 
 namespace League.API
 {
-    public class Summoner_V4 : Key
+    public class League_V4 : Key
     {
-        public Summoner_V4(string region): base(region) { }
+        public League_V4(string region) : base(region) { }
 
-        public SummonerDTO GetSummonerByName(string summonerName)
+        public List<LeagueEntryDTO> GetRankByEncryptedSummonerId(string encryptedSummonerId)
         {
-            string path =  $"summoner/v4/summoners/by-name/{summonerName}";
+            string path = $"league/v4/entries/by-summoner/{encryptedSummonerId}";
 
             var response = Get(GetURI(path));
 
             string content = response.Content.ReadAsStringAsync().Result;
 
             if (response.IsSuccessStatusCode)
-                return JsonConvert.DeserializeObject<SummonerDTO>(content);
+                return JsonConvert.DeserializeObject<List<LeagueEntryDTO>>(content);
             else
                 return null;
         }
